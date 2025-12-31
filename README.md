@@ -37,6 +37,9 @@ Traditional Snowflake pipelines often require:
 - Snowflake manages *how* and *when* to refresh it
 
 ---
+## Architecture Diagram
+
+![Snowflake Dynamic Tables Architecture](images/architecture.png)
 
 ## 🏗️ Architecture Overview
 RAW ORDERS
