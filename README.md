@@ -39,7 +39,7 @@ Traditional Snowflake pipelines often require:
 ---
 ## Architecture Diagram
 
-![Snowflake Dynamic Tables Architecture](images/architecture.png)
+![Snowflake Dynamic Tables Architecture](images/Architecture.png)
 
 ## 🏗️ Architecture Overview
 RAW ORDERS
